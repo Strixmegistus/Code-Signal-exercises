@@ -1,2 +1,2 @@
 # Code-Signal-exercises
-Code Signal exercise solutions in JS ES6
+My Code Signal exercise solutions in JS ES6
